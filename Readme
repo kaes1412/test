@@ -1,0 +1,7 @@
+1. Installl Pip, Flask dan Uswgi bisa liat disini cara setting untuk ke user computer sendiri. (ada config untuk memasukan nama komputernya) bisa lirik disini : https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-16-04
+
+2. Buat DB TestDB dengan 3 field "Judul" (varchar(30)), "Isi"(text), "penulis"(varchar(30)) dengan user root dan pass root
+
+3. masuk dan jalankan python myproject.py, lalu buka di browser 0.0.0.0:5000
+
+ps. saya hanya membalikan data yg belom di olah lagi hehe
